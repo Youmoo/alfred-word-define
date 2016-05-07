@@ -14,4 +14,4 @@ Look up a word using alfred and youdao.
 
 ### Requirements
 
--- latest node `brew install node`
+- latest node `brew install node`
