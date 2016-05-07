@@ -1,0 +1,15 @@
+{
+  "name": "user.workflow.42910268-1724-4DC4-BA6A-E23670085C06",
+  "version": "1.0.0",
+  "description": "",
+  "main": "definee-compiled.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pipeable": "github:youmoo/pipeable"
+  }
+}
